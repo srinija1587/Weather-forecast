@@ -1,4 +1,5 @@
 # Weather-forecast
-![Alt Text]("C:\Users\DOLLY\Desktop\weather.png")
+![Preview Image 1]("C:\Users\DOLLY\Desktop\weather.png")
+
 
 
